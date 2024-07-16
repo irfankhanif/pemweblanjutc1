@@ -102,7 +102,7 @@
                         <i class="bx bx-share-alt"></i>
                         <h3>Social Profiles</h3>
                         <div class="social-links">
-                            <a href="https://twitter.com/irfankhanif_" class="twitter"><i class="bi bi-twitter"></i></a>
+                            <a href="www.linkedin.com/in/irfan-khanif-fauzi-129158254" class="linkedin"><i class="bi bi-linkedin"></i></a>
                             <a href="https://web.facebook.com/irfan.khanif.12" class="facebook"><i class="bi bi-facebook"></i></a>
                             <a href="https://www.instagram.com/irfankhanif_/" class="instagram"><i class="bi bi-instagram"></i></a>
 
